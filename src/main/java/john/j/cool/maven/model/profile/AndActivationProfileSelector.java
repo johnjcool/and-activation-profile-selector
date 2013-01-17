@@ -41,7 +41,7 @@ import org.codehaus.plexus.component.annotations.Requirement;
 /**
  * Calculates the active profiles among a given collection of profiles.
  * 
- * @author Benjamin Bentmann
+ * @author john.j.cool
  */
 @Component(role = ProfileSelector.class)
 public class AndActivationProfileSelector implements ProfileSelector {
