@@ -10,6 +10,9 @@ before it would be activated. So you need to copy following files into *$MAVEN_H
 
 * and-profile-activator-extension.jar (available in target directory)
 
+![background.jpg]({{site.baseurl}}/background.jpg)
+
+
 Now you can write the following in your pom.xml:
 
     <profile>
